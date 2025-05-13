@@ -1,2 +1,2 @@
-# web-dev1
+# web-dev-project-
 ARTSY (Front-end e-commerce website)
